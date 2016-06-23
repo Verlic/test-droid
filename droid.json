@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "script": "index.js",
+  "actions": [
+    {
+      "function": "hello",
+      "aliases": ["hello"],
+      "premessage": "_Wait_"
+    }
+  ]
+}
